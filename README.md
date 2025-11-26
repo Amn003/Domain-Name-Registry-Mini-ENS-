@@ -26,3 +26,7 @@ To enable a decentralized, censorship-resistant naming system where identity and
 🔹 Front-end DApp with wallet integration  
 
 contract address : 0xa650845Ce7f9CC3f8232805F0729E651528914e3
+
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/0216e673-48c6-4bc4-bf70-555ec3aace92" />
+...
+
